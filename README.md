@@ -17,3 +17,5 @@ This weeks challenge required us to make a password generator that generates a p
 [click me](https://tuminski.github.io/Password-Generator/) to go to the deployed link
 
 ## Screenshot
+
+![screenshot](.\Develop\img\Capture.PNG)
